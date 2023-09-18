@@ -12,8 +12,8 @@ var config = {
         "bùng nổ ️🤗",
         "tưng bừng️ 🎉",
         "phấn khởi 😼",
-        "Best wishes for you 🎊",
-        "Thêm tý hình ảnh cho sôi động :)))"
+        "Best wishes for you 🎊"
+
 
     ],
     /**
