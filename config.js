@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "MESSAGE FOR YOU",
+        turn_on: "Bấm vào đây đê bạn ei :)))",
+        play: "Bấm vào đây đê bạn ei :)))",
+        bannar_coming: "Bấm vào đây đê bạn ei :)))",
+        balloons_flying: "Bấm vào đây đê bạn ei :)))",
+        cake_fadein: "Bấm vào đây đê bạn ei :)))",
+        light_candle: "Bấm vào đây đê bạn ei :)))",
+        wish_message: "Bấm vào đây đê bạn ei :)))",
+        story: "Bấm vào đây đê bạn ei :)))",
     }
 };
